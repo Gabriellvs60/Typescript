@@ -1,0 +1,10 @@
+apollo-boost
+graphql
+react apollo
+>>>npm i apollo-boost graphql react-apollo -S
+>>>npm install  graphql-tag  --save
+
+apollo-client
+graphql
+graphql-codegen
+styled-componentes
